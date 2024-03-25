@@ -230,52 +230,10 @@ h6 {
 	margin-bottom:auto;
 	margin-left:auto;
 }
-#iqj5b {
-	overflow:hidden;
-	display:inline-block;
-	margin:0.00px 0.00px;
-	border:0.00px solid #000000;
-	transform:rotate(0.00rad) translateZ(0px);
-	-webkit-transform:rotate(0.00rad) translateZ(0px);
-	width:624.00px;
-	height:498.67px;
-	margin-top:16px;
-	margin-right:16px;
-	margin-bottom:16px;
-	margin-left:16px;
-}
-#i46qe {
-	
-}
-#ia9c2 {
-	overflow:hidden;
-	display:inline-block;
-	margin:0.00px 0.00px;
-	border:0.00px solid #000000;
-	transform:rotate(0.00rad) translateZ(0px);
-	-webkit-transform:rotate(0.00rad) translateZ(0px);
-	width:340.50px;
-	height:154.00px;
-	margin-bottom:16px;
-}
-#i623g {
-	width:340.50px;
-	height:154.00px;
-	margin-left:0.00px;
-	margin-top:0.00px;
-	transform:rotate(0.00rad) translateZ(0px);
-	-webkit-transform:rotate(0.00rad) translateZ(0px);
-}
+
 #guide-body {
 	background-color:rgba(102,102,102,1);
 	text-align:left;
-}
-#iarcdj {
-	background-color:rgba(255,255,255,0);
-}
-#i2nrqe {
-	background-color:rgba(255,255,255,0);
-}
 .bold {
 	font-weight:700;
 }
