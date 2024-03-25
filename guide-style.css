@@ -1,0 +1,280 @@
+* {
+	box-sizing:border-box;
+}
+body {
+	margin:0;
+
+}
+ol {
+	margin:0;
+	padding:0;
+}
+
+.img-span {
+	text-align:center;
+	width:100%;
+	display:block;
+}
+
+.guide-img {
+	width:100%;
+	margin-top:16px;
+	margin-bottom:16px;
+	display:inline-block;
+}
+
+
+table td,table th {
+	padding:0;
+}
+.c22 {
+	margin-left:108pt;
+	padding-top:3pt;
+	padding-left:0pt;
+	padding-bottom:12pt;
+	line-height:1.5;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+.c4 {
+	margin-left:108pt;
+	padding-top:6pt;
+	padding-left:0pt;
+	padding-bottom:12pt;
+	line-height:1.5;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+.c16 {
+	background-color:#ffffff;
+	padding-top:3pt;
+	padding-bottom:12pt;
+	line-height:1.5;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+.c10 {
+	color:#000000;
+	font-weight:400;
+	text-decoration:none;
+	vertical-align:baseline;
+	font-size:12pt;
+	font-family:"Arial";
+	font-style:normal;
+}
+.c1 {
+	padding-top:18pt;
+	padding-bottom:6pt;
+	line-height:1.5;
+	page-break-after:avoid;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+.c5 {
+	padding-top:0pt;
+	padding-bottom:0pt;
+	line-height:1.5;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+.c18 {
+	padding-top:0pt;
+	padding-bottom:0pt;
+	line-height:1.5;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+.c9 {
+	text-decoration-skip-ink:none;
+	font-size:12pt;
+	-webkit-text-decoration-skip:none;
+	color:#1155cc;
+	text-decoration:underline;
+}
+.c3 {
+	padding:0;
+	margin:0;
+}
+.c7 {
+	color:inherit;
+	text-decoration:inherit;
+}
+.c6 {
+	margin-left:36pt;
+	padding-left:0pt;
+}
+.c13 {
+	margin-left:72pt;
+	padding-left:0pt;
+}
+.c11 {
+	font-size:12pt;
+}
+.c19 {
+	color:#1f2328;
+}
+.c15 {
+	margin-left:36pt;
+}
+li {
+	color:#000000;
+	font-size:11pt;
+	font-family:"Arial";
+}
+p {
+	margin:0;
+	color:#000000;
+	font-size:11pt;
+	font-family:"Arial";
+}
+h1 {
+	padding-top:20pt;
+	color:#000000;
+	font-size:20pt;
+	padding-bottom:6pt;
+	font-family:"Arial";
+	line-height:1.15;
+	page-break-after:avoid;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+h2 {
+	padding-top:18pt;
+	color:#000000;
+	font-size:16pt;
+	padding-bottom:6pt;
+	font-family:"Arial";
+	line-height:1.15;
+	page-break-after:avoid;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+h3 {
+	padding-top:16pt;
+	color:#434343;
+	font-size:14pt;
+	padding-bottom:4pt;
+	font-family:"Arial";
+	line-height:1.15;
+	page-break-after:avoid;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+h4 {
+	padding-top:14pt;
+	color:#666666;
+	font-size:12pt;
+	padding-bottom:4pt;
+	font-family:"Arial";
+	line-height:1.15;
+	page-break-after:avoid;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+h5 {
+	padding-top:12pt;
+	color:#666666;
+	font-size:11pt;
+	padding-bottom:4pt;
+	font-family:"Arial";
+	line-height:1.15;
+	page-break-after:avoid;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+h6 {
+	padding-top:12pt;
+	color:#666666;
+	font-size:11pt;
+	padding-bottom:4pt;
+	font-family:"Arial";
+	line-height:1.15;
+	page-break-after:avoid;
+	font-style:italic;
+	orphans:2;
+	widows:2;
+	text-align:left;
+}
+
+#img-1 {
+	max-width:360px;
+	width:90%;
+}
+
+#img-2 {
+	max-width:600px;
+}
+
+#guide-container {
+	width:80%;
+	display:block;
+	padding-left:36px;
+	padding-right:36px;
+	padding-top:16px;
+	max-width:60em;
+	background-color:rgba(255,255,255,1);
+	margin-top:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	margin-left:auto;
+}
+#iqj5b {
+	overflow:hidden;
+	display:inline-block;
+	margin:0.00px 0.00px;
+	border:0.00px solid #000000;
+	transform:rotate(0.00rad) translateZ(0px);
+	-webkit-transform:rotate(0.00rad) translateZ(0px);
+	width:624.00px;
+	height:498.67px;
+	margin-top:16px;
+	margin-right:16px;
+	margin-bottom:16px;
+	margin-left:16px;
+}
+#i46qe {
+	
+}
+#ia9c2 {
+	overflow:hidden;
+	display:inline-block;
+	margin:0.00px 0.00px;
+	border:0.00px solid #000000;
+	transform:rotate(0.00rad) translateZ(0px);
+	-webkit-transform:rotate(0.00rad) translateZ(0px);
+	width:340.50px;
+	height:154.00px;
+	margin-bottom:16px;
+}
+#i623g {
+	width:340.50px;
+	height:154.00px;
+	margin-left:0.00px;
+	margin-top:0.00px;
+	transform:rotate(0.00rad) translateZ(0px);
+	-webkit-transform:rotate(0.00rad) translateZ(0px);
+}
+#guide-body {
+	background-color:rgba(102,102,102,1);
+	text-align:left;
+}
+#iarcdj {
+	background-color:rgba(255,255,255,0);
+}
+#i2nrqe {
+	background-color:rgba(255,255,255,0);
+}
+.bold {
+	font-weight:700;
+}
